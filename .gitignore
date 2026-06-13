@@ -1,0 +1,6 @@
+.DS_Store
+.clasp.json
+Thumbs.db
+.codex-artifacts/
+backend/
+docs/
