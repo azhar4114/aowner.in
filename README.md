@@ -37,13 +37,13 @@ The frontend calls Apps Script using query-param routing:
 
 This repo is intended to publish from the root of the `main` branch.
 
-- `CNAME` is set to `aglaowner.in`
 - `.nojekyll` is included
 
 After GitHub Pages is enabled, the site can be served from:
 
 - `https://azhar4114.github.io/aowner.in/`
-- or `https://aglaowner.in/` once DNS points to GitHub Pages
+
+Custom domain setup can be added later after `aglaowner.in` DNS is pointed to GitHub Pages.
 
 ## Local preview
 
